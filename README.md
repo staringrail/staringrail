@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/mwbarcelona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mwbarcelona" height="30" width="40" /></a>
 <a href="https://instagram.com/railgun1v9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="railgun1v9" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@railgun1v9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="railgun1v9" height="30" width="40" /></a>
-<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="railgun#0001" height="30" width="40" />: railgun#0001 </a>
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="railgun#0001" height="30" width="40" />: .railgun </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
