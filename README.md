@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 👋, I'm Misael</h1>
 <h3 align="center">A passionate software engineer and gamer that loves challenges, learning and improving things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=railgun1v9&label=Profile%20views&color=0e75b6&style=flat" alt="railgun1v9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=staringrail&label=Profile%20views&color=0e75b6&style=flat" alt="staringrail" /> </p>
 
 - 👔 I'm currently working at [@wpengine](https://github.com/wpengine), building and maintaining Edge and Platform services
 - 🌱 I’m currently learning and coding with Go
