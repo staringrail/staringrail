@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👔 I'm currently working at [@wpengine](https://github.com/wpengine), building and maintaining Edge and Platform services
 - 🌱 I’m currently learning and coding with Go
-- 🤔 I’m looking for help with learning microservices and desktop application development
+- 🤔 I’m currently interested in Web Scraping & Automation
 - 🔭 I love working with API's, REST services, backend development and automation
 - 😄 I enjoy video games, movies and VR on my free time
 
