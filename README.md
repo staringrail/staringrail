@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 - 👔 I'm currently working at [@wpengine](https://github.com/wpengine), building and maintaining Edge and Platform services
 - 🌱 I’m currently learning and coding with Go
-- 🤔 I’m currently interested in Web Scraping & Automation
-- 🔭 I love working with API's, REST services, backend development and automation
+- 🤔 I’m currently interested in Wails, Vue.js and Tailwind
+- 🔭 I love working with API's, REST services, backend development and building tools
 - 😄 I enjoy video games, movies and VR on my free time
 
 <h3 align="left">Connect with me:</h3>
